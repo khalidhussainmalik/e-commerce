@@ -84,7 +84,7 @@ function Products() {
                     </h5>
                     <p className="card-text lead fw-bold">$ {product.price}</p>
                     <NavLink to={`/products/${product.id}`} className="btn btn-outline-dark">
-                      Add to Cart
+                      Buy Now
                     </NavLink>
                   </div>
                 </div>
